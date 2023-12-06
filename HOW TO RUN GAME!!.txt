@@ -1,0 +1,5 @@
+To play game, go insid the Need For Speed Most Wanted Black Edition folder, right click and run speed.exe as administrator
+
+If you get any missing dll errors, go inside the Redist folder and install all the programs in the folder: dxwebsetup, vcredist_x64 and 86
+
+For more FREE PC games, visit steamunlocked.com
